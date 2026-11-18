@@ -1,0 +1,158 @@
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Shahbaz&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20Server%20%7C%20Excel&descSize=18&descAlignY=60" width="100%" alt="Muhammad Shahbaz banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F2C811&center=true&vCenter=true&width=760&lines=Turning+complex+business+data+into+clear+insights;15%2B+years+across+Finance%2C+Logistics+%26+Banking;Building+Power+BI+dashboards+%26+KPI+reports;SQL+Server+%7C+DAX+%7C+Advanced+Excel" alt="Typing animation" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=923012144330&label=Profile+Views&color=2C5364&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/923012144330?label=Followers&style=for-the-badge&color=F2C811&labelColor=203A43)
+![Location](https://img.shields.io/badge/Karachi-Pakistan-217346?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahbaz-5a291719/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Shahbazst@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/923012144330)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Senior Data Analyst with 15+ years of experience** across **Finance, Logistics, Business Analysis and Data Analytics**. I turn complex business data into clear, actionable insights using **SQL Server, Power BI, DAX and Advanced Excel**, helping teams make faster and smarter decisions.
+
+<div align="center">
+
+| 🕒 Experience | 🏢 Domains | 🛠️ Core Tools | 📍 Based In |
+|:---:|:---:|:---:|:---:|
+| **15+ Years** | Finance • Logistics • Banking | SQL Server • Power BI • Excel | Karachi, Pakistan |
+
+</div>
+
+### 🔭 What I Do
+
+- 📊 Build interactive **Power BI dashboards** and KPI reports
+- 🗄️ Develop with **SQL Server**: stored procedures, views and data modeling
+- 💰 Deliver **financial reporting**, receivables, aging and P&L analysis
+- 🚢 Apply domain expertise in **logistics, freight forwarding and terminal operations**
+- 🏦 Work with **banking fraud monitoring and EFRM systems**
+- 🎯 Focused on **Data Analytics, MIS and Business Intelligence**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**🗄️ Databases & Querying**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-2E6DA4?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+**📊 Business Intelligence & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**🧰 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Analytics & BI**
+- Power BI Dashboard Development
+- DAX Measures & Data Modeling
+- SQL Query Optimization & Reporting
+- Data Validation & Reconciliation
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Business & Finance**
+- Financial Reporting & MIS
+- Accounts Receivable & Aging Analysis
+- Logistics & Terminal Operations Analytics
+- Business Requirements & Functional Analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| 📁 Project | 🛠️ Tools | 📝 Description |
+|:---|:---|:---|
+| 💹 [Financial Performance & P&L Dashboard](#) | Power BI, DAX, SQL Server | Interactive dashboard tracking revenue, expenses and profitability |
+| 🧾 [Accounts Receivable & Aging Analysis](#) | SQL Server, Excel, Power BI | Receivables tracking with aging buckets and collection insights |
+| 🚢 [Logistics Operations Dashboard](#) | Power BI, SQL Server | Freight forwarding and terminal operations KPIs |
+| 🗄️ [SQL-Based MIS Reporting](#) | SQL Server, Stored Procedures | Automated MIS reports built with views and stored procedures |
+| 🏦 [Banking Fraud & Transaction Analysis](#) | SQL Server, Excel | Transaction monitoring and fraud pattern analysis |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=923012144330&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=923012144330&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=923012144330&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=923012144330&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=923012144330&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to **data analytics roles, collaborations and new opportunities**.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahbaz-5a291719/)
+[![Email](https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Shahbazst@hotmail.com)
+
+<br/>
+
+> ✨ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
